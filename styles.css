@@ -172,7 +172,7 @@ section  {
     background-color: var(--black-color);
 }
 .about .row .content {
-    max-width: 50rem;
+    max-width: 30rem;
     color: var(--main-color);
     padding: 2rem;
 }
@@ -180,13 +180,12 @@ section  {
 .about .row .content h3 {
     font-size: 3rem;
     font-weight: 200;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     color: var(--main-color);
 }
 .about .row .content p {
-    font-size: 1rem;
+    font-size: 0,5rem;
     font-weight: 100;
-    margin-bottom: 2rem;
     color: var(--main-color);
     line-height: 1.8;
     padding: 1rem 0;
